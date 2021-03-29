@@ -89,7 +89,7 @@ pycparser==2.19
 pycryptodome==3.7.3
 PyDispatcher==2.0.5
 pydub==0.23.1
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pymongo==3.7.2
 pyOpenSSL==18.0.0
