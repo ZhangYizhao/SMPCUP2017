@@ -60,7 +60,7 @@ Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 librosa==0.6.3
 llvmlite==0.27.0
-lxml==4.2.5
+lxml==4.6.3
 Markdown==3.0.1
 matplotlib==3.0.2
 mongo==0.2.0
