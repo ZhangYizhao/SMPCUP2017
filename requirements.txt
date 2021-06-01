@@ -133,7 +133,7 @@ torchvision==0.2.1
 traitlets==4.3.2
 Twisted==18.9.0
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.26.5
 w3lib==1.19.0
 Wand==0.5.1
 wcwidth==0.1.7
