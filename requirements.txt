@@ -99,7 +99,7 @@ pytest==4.3.0
 python-dateutil==2.7.5
 pytz==2018.7
 PyWavelets==1.0.2
-pywin32==224
+pywin32==301
 PyYAML==3.13
 query-string==2018.11.20
 queuelib==1.5.0
